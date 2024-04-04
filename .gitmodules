@@ -352,3 +352,6 @@
 [submodule "Stankovskiy_echo_server"]
 	path = Stankovskiy_echo_server
 	url = https://github.com/XJIE6yIlIek/Stankovskiy_echo_server
+[submodule "Stankovskiy_echo_server_advanced"]
+	path = Stankovskiy_echo_server_advanced
+	url = https://github.com/XJIE6yIlIek/Stankovskiy_echo_server_advanced
