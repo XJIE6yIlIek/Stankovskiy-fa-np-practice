@@ -355,3 +355,9 @@
 [submodule "Stankovskiy_echo_server_advanced"]
 	path = Stankovskiy_echo_server_advanced
 	url = https://github.com/XJIE6yIlIek/Stankovskiy_echo_server_advanced
+[submodule "Stankovskiy_7_TCP_server"]
+	path = Stankovskiy_7_TCP_server
+	url = https://github.com/XJIE6yIlIek/Stankovskiy_7_TCP_server
+[submodule "Stankovskiy_7_completed_tcp_server"]
+	path = Stankovskiy_7_completed_tcp_server
+	url = https://github.com/XJIE6yIlIek/Stankovskiy_7_completed_tcp_server
